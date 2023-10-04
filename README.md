@@ -1,6 +1,6 @@
 # TicTacToe
 Built a TicTacToe GUI. 
-![](tictactoe.gif)
+![](./src/main/resources/gif/tictactoe.gif)
 
 # How To Use
 Run the following command to play:
