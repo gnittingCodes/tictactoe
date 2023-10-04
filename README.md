@@ -1,6 +1,7 @@
 # TicTacToe
 Built a TicTacToe GUI. 
-![](./src/main/resources/gif/tictactoe.gif)
+
+<img src="./src/main/resources/gif/tictactoe.gif" width="340" height="400"/>
 
 # How To Use
 Run the following command to play:
